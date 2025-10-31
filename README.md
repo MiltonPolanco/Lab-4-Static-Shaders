@@ -5,7 +5,7 @@ Proyecto de gráficas por computadora que genera planetas procedurales usando ú
 ## Capturas de Pantalla
 
 ### Planeta Rocoso con Luna (Tecla 1 + M)
-![Planeta Rocoso](screenshots/Cristal.png)
+![Planeta Rocoso](screenshots/Rocoso.png)
 
 ### Gigante Gaseoso (Tecla 2)
 ![Gigante Gaseoso](screenshots/Gaseoso.png)
