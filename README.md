@@ -5,19 +5,19 @@ Proyecto de gráficas por computadora que genera planetas procedurales usando ú
 ## Capturas de Pantalla
 
 ### Planeta Rocoso con Luna (Tecla 1 + M)
-![Planeta Rocoso](Lab-4-Static-Shaders/screenshots/Cristal.png)
+![Planeta Rocoso](screenshots/Cristal.png)
 
 ### Gigante Gaseoso (Tecla 2)
-![Gigante Gaseoso](Lab-4-Static-Shaders/screenshots/Gaseoso.png)
+![Gigante Gaseoso](screenshots/Gaseoso.png)
 
 ### Planeta de Lava con Luna (Tecla 3 + M)
-![Planeta de Lava](Lab-4-Static-Shaders/screenshots/lava.png)
+![Planeta de Lava](screenshots/lava.png)
 
 ### Planeta de Cristal (Tecla 4)
-![Planeta de Cristal](Lab-4-Static-Shaders/screenshots/Cristal.png)
+![Planeta de Cristal](screenshots/Cristal.png)
 
 ### Planeta oceanico (Tecla 5)
-![Planeta con Anillos](Lab-4-Static-Shaders/screenshots/Oceánico.png)
+![Planeta con Anillos](screenshots/Oceánico.png)
 
 
 
